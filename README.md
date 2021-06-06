@@ -1,5 +1,9 @@
 # ASUS UX425JA Hackintosh Big Sur OpenCore EFI
 ![](https://raw.githubusercontent.com/AveyBD/ASUS-UX425JA-Hackintosh/main/Opencore.png)
+
+------------
+
+
 Hackintosh files for Asus ux425JA. Feel free to contribute please. 
 
 ------------
