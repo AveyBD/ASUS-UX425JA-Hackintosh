@@ -7,7 +7,7 @@
 Hackintosh files for Asus ux425JA. Feel free to contribute please. 
 
 ------------
-
+![About The Distro](https://github.com/AveyBD/ASUS-UX425JA-Hackintosh/raw/main/myMac.png "About The Distro")
 
 **My Notebook Config**
 
@@ -44,6 +44,10 @@ Hackintosh files for Asus ux425JA. Feel free to contribute please.
 
 ## macOS Version: Big Sur
 ![](https://raw.githubusercontent.com/AveyBD/ASUS-UX425JA-Hackintosh/main/bigsur.png)
+
+
 ## What does not work
-1. iGPU
-2. Audio
+1. Keyboard Backlight 
+2. Charge Notification.
+3. FaceTime
+4. iMessage
